@@ -81,7 +81,6 @@ Crafts **end-to-end web experiences** — cinematic animations, responsive desig
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logoColor=FFFFFF)
 ![React Query](https://img.shields.io/badge/React_Query-000000?style=for-the-badge&logoColor=FF4444)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=FFFFFF)
 
 ### 🔧 Backend & APIs
 
@@ -90,7 +89,6 @@ Crafts **end-to-end web experiences** — cinematic animations, responsive desig
 ![tRPC](https://img.shields.io/badge/tRPC-000000?style=for-the-badge&logoColor=FF4444)
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=3982CE)
 ![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=E10098)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
 
 ### 🗄️ Data & Deployment
 
@@ -99,41 +97,70 @@ Crafts **end-to-end web experiences** — cinematic animations, responsive desig
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=2088FF)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:222222&height=80&section=header&text=FEATURED%20PROJECT&fontColor=FF4444" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:222222&height=80&section=header&text=FEATURED%20PROJECTS&fontColor=FF4444" width="100%"/>
 </div>
 
-## Featured Project
+## Featured Projects
 
-<div align="center">
+### 🛒 Full-Stack Ecommerce Platform
 
-### AI Lead Automation CRM
+**Modern multi-vendor marketplace with real-time features & payment integration**
 
-**Production-grade CRM with cinematic UI & real-time Instagram integration**
+> 🔒 **Private Repository** | [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=FF4444)](YOUR_DEPLOYMENT_LINK_HERE)
+
+![Next.js](https://img.shields.io/badge/-Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=FF4444)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_v4-000000?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+![Razorpay](https://img.shields.io/badge/-Razorpay-000000?style=flat-square&logoColor=0C9FF2)
+![Clerk](https://img.shields.io/badge/-Clerk-000000?style=flat-square&logoColor=6C47FF)
+![Pusher](https://img.shields.io/badge/-Pusher-000000?style=flat-square&logoColor=300D4F)
+
+**Key Features:**
+- **Multi-role system** (Users, Suppliers, Admins) with dedicated dashboards
+- **Advanced search** with fuzzy matching (Fuse.js) + category filtering
+- **Real-time updates** via Pusher (orders, notifications, messaging)
+- **Secure payments** with Razorpay integration
+- **Supplier negotiation system** for B2B transactions
+- **Cloud image optimization** with Cloudinary
+- **Dark mode** support with next-themes
+- **Order tracking** with delivery status updates
+
+**Tech Architecture:**
+- Next.js 16 App Router + Server Components
+- Mongoose ODM with MongoDB Atlas
+- Clerk authentication + webhook handling (Svix)
+- Radix UI primitives + Tailwind CSS v4
+- React Hook Form + Zod validation
+- Recharts data visualization
+
+---
+
+### 🏢 AI Lead Automation CRM
+
+**Production-grade CRM with cinematic UI & Instagram lead capture**
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FF4444)
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=22C55E)
 ![Prisma](https://img.shields.io/badge/-Prisma-000000?style=flat-square&logo=prisma&logoColor=3982CE)
+![Meta API](https://img.shields.io/badge/-Meta_API-000000?style=flat-square&logo=meta&logoColor=1877F2)
 
 **Key Features:**
 - **80% manual work reduction** through intuitive dashboards
 - **3x faster response times** with real-time Meta Webhooks
 - **Framer Motion animations** (60fps micro-interactions)
 - **Full TypeScript** + Tailwind design system
-- **Next.js Server Components** for optimal performance
+- **RBAC lead routing** with automated assignment
 - **5K+ concurrent records** production scale
 
 **Tech Stack:** Next.js App Router • tRPC • Server Actions • Shadcn UI • Prisma ORM
-
-</div>
 
 ---
 
@@ -199,6 +226,28 @@ Crafts **end-to-end web experiences** — cinematic animations, responsive desig
 🎨 Design Tokens & CSS Variables systems
 🌐 tRPC + Prisma full-stack TypeScript APIs
 📱 Real-time features (Server-Sent Events, WebSockets)
+
+**Currently Building:**
+- Component libraries with full TypeScript + Storybook documentation
+- Motion-first landing pages (60fps guaranteed)
+- tRPC + Prisma full-stack production starters
+- Advanced form libraries with validation + animations
+- Design system tokens with Tailwind plugin architecture
+
+---
+
+## The Craft
+
+<div align="center">
+
+**Mission:** Build interfaces that feel alive. Backends that never break.
+
+**Core Expertise:**
+🎨 UI/UX: Figma → Pixel-perfect React components
+⚡ Frontend: Next.js, React, TypeScript, Framer Motion
+🔧 Backend: Node.js, tRPC, Prisma, Express, GraphQL
+🚀 Performance: Server Components, SSR/SSG optimization
+🎭 Animation: Scroll-triggered, micro-interactions, layout transitions
 
 **Process:** Design → Prototype → Animate → Optimize → Ship → Iterate
 
