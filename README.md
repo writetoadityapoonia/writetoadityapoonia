@@ -213,10 +213,6 @@ Crafts **end-to-end web experiences** — cinematic animations, responsive desig
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:111111,100:000000&height=80&text=CURRENT+R%26D&fontSize=24&fontColor=FF4444" width="100%"/>
-</div>
-
 ## Current R&D
 
 **Mastering Now:**
