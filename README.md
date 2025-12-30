@@ -112,7 +112,7 @@ Crafts **end-to-end web experiences** — cinematic animations, responsive desig
 
 **Modern multi-vendor marketplace with real-time features & payment integration**
 
-> 🔒 **Private Repository** | [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=FF4444)]([YOUR_DEPLOYMENT_LINK_HERE](https://nextrade-eccomerce.vercel.app/))
+> 🔒 **Private Repository** | [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=FF4444)](https://nextrade-eccomerce.vercel.app/)
 
 ![Next.js](https://img.shields.io/badge/-Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=FF4444)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
