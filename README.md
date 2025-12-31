@@ -38,7 +38,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="320" src="https://media0.giphy.com/media/lTLV2erK8vf1MIz4Rk/giphy.gif">
+
 
 **Frontend architect & full-stack engineer** specializing in **pixel-perfect UI/UX**, **performance-optimized React/Next.js applications**, and **production-ready backend systems**.
 
